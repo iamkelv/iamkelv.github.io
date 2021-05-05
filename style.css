@@ -1,0 +1,14 @@
+*{
+        box-sizing: border-box;
+       }
+       /* Mobile View */
+       @media only screen and (max-width: 768px){
+
+            .hi{
+                font-size: 12px;
+            }
+            .skills1{
+                margin-left: 0px
+                max-width: 100%;
+            }
+       }

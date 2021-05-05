@@ -1,0 +1,54 @@
+.nav{
+    width: 100%; 
+    height: 50px;
+    top: 0px; 
+    border: 1px dashed black; 
+    position: absolute;         
+    left: 0px;
+    padding: 10px 0px ;
+}
+.nav img{
+  
+    padding-top: 5px;
+}
+.nav img:hover{
+    cursor: pointer;
+    padding-top: 5px;
+}
+.nav-item{
+    list-style: none;
+    float: right;
+    margin-right: 30px;
+    
+}
+.nav-item{
+    list-style: none;
+    float: right;
+   
+    
+}
+.nav-item li {
+    display: inline;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.nav-item li a {
+text-decoration: none;
+}
+.btn-round a{
+   color: black;
+    padding: 5px 10px;    
+}
+.btn-round a:hover{
+   color:#7510F7;
+    padding: 5px 10px;    
+}
+.hello{  
+    margin-right: 60px;
+}
+.hello:hover{
+    background-color: #7510F7;
+    color: white;
+    border-radius: 20px 20px;
+    padding: 5px 10px;    
+}
